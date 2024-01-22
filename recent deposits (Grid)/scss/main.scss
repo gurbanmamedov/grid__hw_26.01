@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+@import './components/content/dashboard';
+@import './components/variables/vars';
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    list-style: none;
+}
+
+
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+}
